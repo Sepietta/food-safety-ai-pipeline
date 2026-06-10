@@ -1,0 +1,7 @@
+sample_id,pathogen,count,unit
+LOT-001,Total coliforms,45,CFU/g
+LOT-001,Aerobic mesophiles,82000,CFU/g
+LOT-002,Total coliforms,320,CFU/g
+LOT-002,E. coli O157:H7,0,CFU/g
+LOT-003,Salmonella spp.,1,CFU/25g
+LOT-003,Molds and yeasts,800,CFU/g
